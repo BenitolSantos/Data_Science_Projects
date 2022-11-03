@@ -1,0 +1,1 @@
+Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. I need to build the model to determine the value.
