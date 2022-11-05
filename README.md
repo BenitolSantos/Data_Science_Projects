@@ -1,7 +1,7 @@
 # Data Analyst and Data Scientist professional program
 
 
-These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
+These projects were completed for Practicum's Data Analyst / Data Scientist professional training program, then uploaded all at once.
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
